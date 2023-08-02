@@ -25,7 +25,7 @@ Follow the steps below to install and run MoneyTrail on your local machine:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/moneytrail.git
+git clone https://github.com/paramarora09/moneytrail.git
 cd moneytrail
 ```
 
